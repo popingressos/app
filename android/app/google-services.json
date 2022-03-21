@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "350949793249",
+    "firebase_url": "https://pop-ingressos.firebaseio.com",
+    "project_id": "pop-ingressos",
+    "storage_bucket": "pop-ingressos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350949793249:android:ee8529f51c6fe628a886a0",
+        "android_client_info": {
+          "package_name": "com.popingressos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350949793249-rr4nod2ilp86or6b7rqlt6kkfngeq9pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfPKw2AxNA9CiAlHFPzvu9IQkhYLMnFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350949793249-rr4nod2ilp86or6b7rqlt6kkfngeq9pi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350949793249-9n4dntphoq2ve19ofs1akvf194t5g1j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.popingressos111111111111"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

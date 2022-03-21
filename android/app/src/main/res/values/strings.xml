@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pop Ingressos</string>
+    <string name="title_activity_example">ExampleActivity</string>
+    <string name="example_activity_title">Example activity</string>
+    <string name="go_back">Go back!</string>
+    <string name="trigger_event">Trigger event</string>
+    <string name="reverse_text_activity_title">Reversed text!</string>
+    <string name="menuitem_reverse_text_label">Reverse text</string>
+    <string name="call_javascript_from_java">Call JavaScript from Java</string>
+    <string name="facebook_app_id"></string>
+    <string name="facebook_client_token"></string>
+</resources>
